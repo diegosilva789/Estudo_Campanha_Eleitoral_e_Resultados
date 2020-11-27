@@ -4,7 +4,7 @@ Comparação dos candidatos à prefeito/prefeita que gastaram mais em campanha e
 
 ## Desenvolvido por:
 
-[Diego Rodrigo da Silva](https://github.com/diegosilva789)
+[Diego Rodrigo da Silva](https://github.com/diegosilva789)  
 [João Victor Marinho de Souza](https://github.com/joaomaarinho)
 
 ## Principais resultados
